@@ -10,6 +10,8 @@ recipes.remove(<item:mekanism:mekasuit_boots>);
 
 recipes.remove(<item:mekanism:atomic_disassembler>);
 
+recipes.remove(<item:mekanism:digital_miner>);
+
 craftingTable.addShaped("mekasuit_helmet", <item:mekanism:mekasuit_helmet>, [
     [<item:mekanism:hdpe_sheet>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:hdpe_sheet>],
     [<item:mekanism:hdpe_sheet>, <item:allthemodium:unobtainium_helmet>, <item:mekanism:hdpe_sheet>],
@@ -38,4 +40,10 @@ craftingTable.addShaped("atomic_disassembler", <item:mekanism:atomic_disassemble
     [<item:mekanism:alloy_infused>, <item:mekanism:ultimate_control_circuit>, <item:mekanism:alloy_infused>],
     [<item:mekanism:alloy_infused>, <item:mekanism:alloy_atomic>, <item:mekanism:alloy_infused>],
     [<item:minecraft:air>, <item:allthemodium:allthemodium_ingot>, <item:minecraft:air>]
+]);
+
+craftingTable.addShaped("digital_miner", <item:mekanism:digital_miner>, [
+    [<item:allthemodium:allthemodium_nugget>, <item:mekanism:basic_control_circuit>, <item:allthemodium:allthemodium_nugget>],
+    [<item:mekanism:logistical_sorter>, <item:mekanism:robit>, <item:mekanism:logistical_sorter>],
+    [<item:mekanism:teleportation_core>, <item:mekanism:steel_casing>, <item:mekanism:teleportation_core>]
 ]);

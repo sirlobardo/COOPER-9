@@ -6,4 +6,6 @@
 #010 minecraft:forest
 #4F1 minecraft:ocean
 #5FF minecraft:river
+#204 biomesoplenty:rocky_shrubland
+#2CF biomesoplenty:shrubland
 #51A minecraft:stony_shore
