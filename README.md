@@ -2,7 +2,10 @@
 
 This is official repository of COOPER-9 modpack
 
-| Mod | Versão |
+<details>
+  <summary>Show modlist</summary>
+
+| Mod | Version |
 |------|--------|
 | ad_astra | 1.15.19 |
 | advancednetherite | 2.1.3 |
@@ -131,3 +134,5 @@ This is official repository of COOPER-9 modpack
 | YungsBetterDungeons | 4.0.4 |
 | ZeroCore2 | 2.1.47 |
 | Zeta | 1.0-24 |
+
+</details>
