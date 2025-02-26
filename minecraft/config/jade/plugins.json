@@ -60,6 +60,29 @@
     "hud.status": true,
     "hud.contents": true
   },
+  "immersiveengineering": {
+    "multiblock_icon": true
+  },
+  "jade": {
+    "coordinates.rel": false,
+    "distance": false,
+    "block_face": false,
+    "coordinates": false,
+    "registry_name": "OFF",
+    "mod_name": true
+  },
+  "ae2": {
+    "part_icon": true,
+    "charger": true,
+    "debug": true,
+    "part_tooltip": true,
+    "grid_node_state": true,
+    "pattern_provider": true,
+    "part_mod_name": true,
+    "power_storage": true,
+    "crafting_monitor": true,
+    "part_name": true
+  },
   "mekanism": {
     "infuse_type": true,
     "gas": true,
@@ -75,16 +98,8 @@
     "hud": true,
     "hud.redstone": true
   },
-  "immersiveengineering": {
-    "multiblock_icon": true
-  },
-  "jade": {
-    "coordinates.rel": false,
-    "distance": false,
-    "block_face": false,
-    "coordinates": false,
-    "registry_name": "OFF",
-    "mod_name": true
+  "mysticalagradditions": {
+    "infused_farmland": true
   },
   "waystones": {
     "waystone": true
@@ -92,22 +107,15 @@
   "corpse": {
     "corpse": true
   },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
+  },
   "securitycraft": {
     "showowner": true,
     "showmodules": true,
     "info": true,
     "showcustomname": true
-  },
-  "ae2": {
-    "part_icon": true,
-    "charger": true,
-    "debug": true,
-    "part_tooltip": true,
-    "grid_node_state": true,
-    "pattern_provider": true,
-    "part_mod_name": true,
-    "power_storage": true,
-    "crafting_monitor": true,
-    "part_name": true
   }
 }
