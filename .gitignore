@@ -3,11 +3,15 @@ mmc-pack.json
 
 modlist.html
 minecraft/journeymap
+minecraft/local
 minecraft/logs
 minecraft/mods
 minecraft/resourcepacks
 minecraft/saves
+minecraft/schematics
+minecraft/screenshots
 minecraft/server-resource-packs
 minecraft/shaderpacks
+minecraft/texturepacks
 minecraft/usercache.json
 minecraft/usernamecache.json
