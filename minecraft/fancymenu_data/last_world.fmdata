@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = /home/lobardo/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Copper-9/minecraft/saves/New World
+}
+
