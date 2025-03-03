@@ -20,6 +20,12 @@
     },
     {
       "item": {
+        "tag": "forge:ingots/vibranium"
+      },
+      "count": 5
+    },
+    {
+      "item": {
         "tag": "minecraft:logs"
       },
       "count": 10

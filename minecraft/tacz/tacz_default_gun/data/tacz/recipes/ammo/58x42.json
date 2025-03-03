@@ -2,7 +2,7 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/copper"
+        "tag": "forge:ingots/steel"
       },
       "count": 15
     },
@@ -11,6 +11,11 @@
         "tag": "forge:gunpowder"
       },
       "count": 3
+    },
+    {
+      "item": {
+        "tag": "forge:ingots/osmium"
+      }
     }
   ],
   "result": {

@@ -23,6 +23,12 @@
         "tag": "forge:rods/blaze"
       },
       "count": 2
+    }, 
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 1
     }
   ],
   "result": {
