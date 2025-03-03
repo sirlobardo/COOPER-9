@@ -17,6 +17,12 @@
         "tag": "minecraft:logs"
       },
       "count": 12
+    }, 
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 1
     }
   ],
   "result": {

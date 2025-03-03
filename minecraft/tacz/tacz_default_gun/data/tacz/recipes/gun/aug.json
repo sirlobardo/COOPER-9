@@ -23,6 +23,12 @@
         "tag": "forge:gems/amethyst"
       },
       "count": 1
+    }, 
+    {
+      "item": {
+        "tag": "forge:ingots/netherite"
+      },
+      "count": 1
     }
   ],
   "result": {

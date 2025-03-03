@@ -1,0 +1,61 @@
+[
+  
+  {
+    "mob": ["mekanismadditions:baby_creeper", "mekanismadditions:baby_skeleton", "mekanismadditions:baby_enderman"], 
+    "result": "deny"
+  },
+  {
+    "mob": ["disassembly_required:cynhostile","disassembly_required:skin"],
+    "result": "deny"
+  },
+  {
+    "mob": ["disassembly_required:wdj","disassembly_required:redsentinel",
+        "disassembly_required:sentinel","disassembly_required:yellowsent",
+        "disassembly_required:luna","disassembly_required:p",
+        "disassembly_required:sock_1n","disassembly_required:sock_2k",
+        "disassembly_required:v","disassembly_required:n",
+        "disassembly_required:j","disassembly_required:lime_t",
+        "disassembly_required:sock_4j","disassembly_required:a",
+        "disassembly_required:sock_5j","disassembly_required:sock_6j",
+        "disassembly_required:sock_7j","disassembly_required:sock_3j",
+        "disassembly_required:sock_2j","disassembly_required:sock_2n",
+        "disassembly_required:sock_3n","disassembly_required:sock_4n",
+        "disassembly_required:sock_5n","disassembly_required:sock_6n",
+        "disassembly_required:luna_a","disassembly_required:luna_b",
+        "disassembly_required:luna_c","disassembly_required:luna_d",
+        "disassembly_required:sock_1k","disassembly_required:sock_3k",
+        "disassembly_required:sock_4k","disassembly_required:sock_5k",
+        "disassembly_required:c","disassembly_required:elite",
+        "disassembly_required:sock_8j" ],
+        "biome": ["minecraft:jagged_peaks","minecraft:snowy_slopes","minecraft:snowy_beach",
+                  "minecraft:snowy_plains","biomesoplenty:snowy_maple_woods","biomesoplenty:snowy_coniferous_forest",
+                  "biomesoplenty:snowy_fir_clearing","minecraftsnowy_taiga"],
+        "mincount": {
+        "amount": 1
+        },
+    "result": "allow"
+  },
+  {
+    "mob": ["disassembly_required:wdj","disassembly_required:redsentinel",
+        "disassembly_required:sentinel","disassembly_required:yellowsent",
+        "disassembly_required:luna","disassembly_required:p",
+        "disassembly_required:sock_1n","disassembly_required:sock_2k",
+        "disassembly_required:v","disassembly_required:n",
+        "disassembly_required:j","disassembly_required:lime_t",
+        "disassembly_required:sock_4j","disassembly_required:a",
+        "disassembly_required:sock_5j","disassembly_required:sock_6j",
+        "disassembly_required:sock_7j","disassembly_required:sock_3j",
+        "disassembly_required:sock_2j","disassembly_required:sock_2n",
+        "disassembly_required:sock_3n","disassembly_required:sock_4n",
+        "disassembly_required:sock_5n","disassembly_required:sock_6n",
+        "disassembly_required:luna_a","disassembly_required:luna_b",
+        "disassembly_required:luna_c","disassembly_required:luna_d",
+        "disassembly_required:sock_1k","disassembly_required:sock_3k",
+        "disassembly_required:sock_4k","disassembly_required:sock_5k",
+        "disassembly_required:c","disassembly_required:elite",
+        "disassembly_required:sock_8j" ],
+    "result": "deny"
+  }
+]
+
+

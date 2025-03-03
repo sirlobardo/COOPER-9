@@ -2,7 +2,7 @@
   "materials": [
     {
       "item": {
-        "tag": "forge:ingots/gold"
+        "tag": "forge:ingots/netherite"
       },
       "count": 15
     },
